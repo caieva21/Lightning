@@ -24,7 +24,6 @@ void draw()
 }
 void mousePressed()
 {
-	background (255);
 	startX = 150;
 	startY = 0;
 	endX = 150;
