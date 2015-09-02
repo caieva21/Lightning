@@ -7,7 +7,7 @@ void setup()
 {
   size(500,500);
   strokeWeight (2);
-  frameRate (5);
+  frameRate (1);
 }
 void draw()
 {
