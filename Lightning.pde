@@ -7,11 +7,11 @@ void setup()
 {
   size(500,500);
   strokeWeight (2);
-  frameRate (10);
+  frameRate (5);
 }
 void draw()
 {
-	background (0,0,0);
+	background (0);
 	stroke ((int)(Math.random()*255),(int)(Math.random()*255), (int)(Math.random()*255));
 	while (endX<500)
 	{
